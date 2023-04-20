@@ -1,9 +1,8 @@
 <template>
-  <Demo />
+  <div>app.vue</div>
 </template>
 
 <script setup lang="ts">
-import Demo from './Demo.vue';
 
 </script>
 

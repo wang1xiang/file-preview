@@ -1,10 +1,9 @@
 <template>
-  <Demo />
+  <FilePreview />
 </template>
 
 <script setup lang="ts">
-import Demo from './Demo.vue';
-
+import FilePreview from './components/filePreview/index.vue'
 </script>
 
 <style scoped></style>
